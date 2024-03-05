@@ -35,7 +35,7 @@ Mercury Spoofer is a tool developed to help users change or mask their computer'
 
 ## 🚀 How to Use
 
-1. Download and install Hwid Manager from [Releases]()
+1. Download and install Hwid Manager from [Releases](https://github.com/MercuryCheats1/Mercury-Spoofer/releases/tag/V1)
 2. Open the program and follow the on-screen instructions.
 3. Select the "Spoof" option to change your HWID.
    
