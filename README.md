@@ -30,7 +30,7 @@ Mercury Spoofer is a tool developed to help users change or mask their computer'
 - Registry
 - And some more that we would like to keep private...
 
-<img width="750" alt="image" src="[https://imgur.com/a/Xk0tuLw](https://private-user-images.githubusercontent.com/57549162/303967453-0a47fc18-fd10-4706-8391-bce6994c0bda.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NDQ1MzIsIm5iZiI6MTcwOTY0NDIzMiwicGF0aCI6Ii81NzU0OTE2Mi8zMDM5Njc0NTMtMGE0N2ZjMTgtZmQxMC00NzA2LTgzOTEtYmNlNjk5NGMwYmRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDEzMTAzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzMjMwYjgyN2Q5YmVkMGVhZGFmNWY4MzAyMGEzNWQ2YTVhZjdkODA0ODk1MWY3MTM0ZTljNzE5YzVlNzZhN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cwWoQagjrRb5Pfa5tOqZ5fby5Jb3H6L28Mlmxobmdow)">
+<img width="750" alt="image" src="https://github.com/LipeSix1/HW1D-M4N4G3R/assets/57549162/0a47fc18-fd10-4706-8391-bce6994c0bda">
 
 
 ## 🚀 How to Use
